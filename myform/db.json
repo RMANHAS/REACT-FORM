@@ -1,0 +1,39 @@
+{
+  "posts": [
+    {
+      "username": "RajinderManhas",
+      "email": "rajinderrajput54@gmail.com",
+      "password": "23233",
+      "occupation": "pilot",
+      "gender": "male",
+      "languages": [
+        "js",
+        "react"
+      ],
+      "id": 2
+    },
+    {
+      "username": "sahil",
+      "email": "sahil@gmail.com",
+      "password": "23233",
+      "occupation": "pilot",
+      "gender": "male",
+      "languages": [
+        "react",
+        "js",
+        "mongo"
+      ],
+      "id": 3
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
